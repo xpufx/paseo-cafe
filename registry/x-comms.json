@@ -1,0 +1,7 @@
+{
+  "repo": "xpufx/paseo-x-comms",
+  "categories": ["communication", "productivity"],
+  "platforms": ["linux"],
+  "caveats": ["Only tested on Linux and Android; macOS and Windows are untested."],
+  "submittedBy": "xpufx"
+}
