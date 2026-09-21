@@ -1,7 +1,9 @@
 {
-  "repo": "xpufx/paseo-x-comms",
+  "repo": "xpufx/paseo",
+  "path": "plugins/x-comms",
+  "package": "@xpufx/paseo-x-comms",
   "categories": ["communication", "productivity"],
   "platforms": ["linux"],
-  "caveats": ["Only tested on Linux and Android; macOS and Windows are untested."],
+  "caveats": ["Requires Paseo >=0.9.0-beta.2.", "Only tested on Linux and Android; macOS and Windows are untested."],
   "submittedBy": "xpufx"
 }
